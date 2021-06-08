@@ -2,9 +2,11 @@
 
 > <https://doi.org/10.1016/j.tafmec.2021.102987>
 
+> My elsevier share link for this paper <https://www.sciencedirect.com/science/authShare/S0167844221000951/20210423T023800Z/1?dgcid=coauthor&md5=625dcf9624bdbf893856a6b1e005d98c> (available before June 12, 2021)
+
 ## Timeline
 
-* **2021-04-09** Available Online
+* **2021-04-23** Available Online
 * **2021-04-03** Accept
 * **2021-03-18** Submitted the Revisd Manuscript
 * **2021-01-07** Minor Revision
